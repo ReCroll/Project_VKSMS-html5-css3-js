@@ -38,6 +38,22 @@
 	font-style: normal;
 }
 
+::-webkit-scrollbar-track {
+  border-radius: 3px;
+  /* // background-color: #524f4f; */
+  background-color: rgba(69, 86, 99, 0.85);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  /* // background-color: #9c9797; */
+  background-color: #f56a6a;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
